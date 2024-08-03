@@ -7,4 +7,8 @@
 - added a new jobs routes and controller in backend (getJobsCreatedByEmployer)
 
 ## 02 August 2024
-- 
+- Created  popup modal in give test after time completion
+- Created initial layout of ai interview cracker
+
+## 03 August 2024
+
