@@ -11,4 +11,15 @@
 - Created initial layout of ai interview cracker
 
 ## 03 August 2024
+-  Added payment based button functionality in pricing page
+-  make changes in Instamojo controller
+-  Made chantges in info and schema and employer onboarding page
+-  created a new aiinterview page
+
+## 04 August 2024
+- Sunday off
+
+
+## 05 August 2024
+
 
