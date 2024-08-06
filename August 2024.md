@@ -22,4 +22,11 @@
 
 ## 05 August 2024
 
+- Make changes in create and edit jobs in frontend
+- Added candidate and jobs dummy data
+- Added a button and state  change functionality in resume
+- Able to create jobs only if the tier is purchased
+- Edit jobs based on applied tier
+- Created jobPostedModel
+
 
