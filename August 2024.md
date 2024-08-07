@@ -30,3 +30,7 @@
 - Created jobPostedModel
 
 
+## 06 August 2024
+- Created apply jobs functionality
+- Created applicant.jsx page
+- Made changes in apply jobs and job posted model and controllers 
