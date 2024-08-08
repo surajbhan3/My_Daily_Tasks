@@ -33,4 +33,11 @@
 ## 06 August 2024
 - Created apply jobs functionality
 - Created applicant.jsx page
-- Made changes in apply jobs and job posted model and controllers 
+- Made changes in apply jobs and job posted model and controllers
+
+##  07 Aug 2024
+- Connected test-gcp  branch
+- Made changes in job controllers and creditsystem
+- Madde canges in job apply backend
+- apply only if the profile is build
+- list all the applicants applied for a job
