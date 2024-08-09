@@ -41,3 +41,11 @@
 - Madde canges in job apply backend
 - apply only if the profile is build
 - list all the applicants applied for a job
+
+## 08 Aug 2024
+- created feature display similar jobs in fronted based on jobdepartment
+- created routes nad a function in job controller
+- updated name in the employeronboarding
+- created a feature shortlist by recruiterand backend
+
+## 09 Aug 2024
