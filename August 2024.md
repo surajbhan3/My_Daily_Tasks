@@ -49,3 +49,9 @@
 - created a feature shortlist by recruiterand backend
 
 ## 09 Aug 2024
+- Made changes in applicant list page
+- Display applicants based on Id's
+- Created getCandidateshortlistedbyRecruiter controller and frontend
+- Created shortlist by employer and sotre the shortlist candidate
+- Searched glassdor credentials for api fetching
+- created social media share option in frontend 
