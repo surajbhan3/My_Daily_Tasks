@@ -55,3 +55,12 @@
 - Created shortlist by employer and sotre the shortlist candidate
 - Searched glassdor credentials for api fetching
 - created social media share option in frontend 
+
+
+## 10 Aug 2024
+- Added scroll to top functionality in frontend
+- Added migration file in backend
+- Added foreign key in jobsmodel
+- made changes in job controller
+- connected candidate comparison with backend
+- 
