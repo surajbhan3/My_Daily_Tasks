@@ -63,4 +63,13 @@
 - Added foreign key in jobsmodel
 - made changes in job controller
 - connected candidate comparison with backend
-- 
+
+## 12 Aug 2024
+- Git pull from main both in frontend and backend
+- Show shortlisted candidate by recruiter and shortlist on click
+- Research for nodemailer created passkey
+- candidate listing page change layout show top three candidate at the top
+- Apply role based job apply in job controller
+- View job page data mapping
+- Added profile picture in navbar based on userRole
+
