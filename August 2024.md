@@ -73,3 +73,13 @@
 - View job page data mapping
 - Added profile picture in navbar based on userRole
 
+## 13 Aug 2024
+- Added edge cases in candidate comparison
+- Meeting (Extended deadline)
+- created onboarding-request page and displayed all onboarding clients
+- created list-companies page 
+- show other jobs by same company changes
+- removed border 
+- show similar jobs based on skills
+- added image in top-hires make changes in getjobsbyfilter
+
