@@ -91,4 +91,4 @@
 - Added text in resume button and added blurred image  in resume builder
 - Disable buttons if the resume is not created yet
 - Changes class to calssName in some files
-- 
+- List all companies page created and displayed data
