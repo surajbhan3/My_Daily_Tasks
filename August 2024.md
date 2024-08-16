@@ -83,3 +83,12 @@
 - show similar jobs based on skills
 - added image in top-hires make changes in getjobsbyfilter
 
+# 14 Aug 2024
+- My application page created in frontend and displayed the jobs applied
+- My application model, controller and routes creation and relationship build
+- Redirected on view job button in my application page to view job details
+- State change to apply to applied if the candidate already applied to job
+- Added text in resume button and added blurred image  in resume builder
+- Disable buttons if the resume is not created yet
+- Changes class to calssName in some files
+- 
