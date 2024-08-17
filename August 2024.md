@@ -92,3 +92,12 @@
 - Disable buttons if the resume is not created yet
 - Changes class to calssName in some files
 - List all companies page created and displayed data
+
+# 16 Aug 2024
+- Created migration for profile picture column update in userModel
+- Remove auth from employeronboarding ele in all routes and updated header.jsx(added job-board)
+- Created myprofile page
+- created ediprofileinfo and editprofileschema
+- update profile picture and edit functionality
+- Created update route and controller in userRoute and
+- Changes in getuserprofilepicture controller function 
