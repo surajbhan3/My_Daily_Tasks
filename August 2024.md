@@ -100,4 +100,8 @@
 - created ediprofileinfo and editprofileschema
 - update profile picture and edit functionality
 - Created update route and controller in userRoute and
-- Changes in getuserprofilepicture controller function 
+- Changes in getuserprofilepicture controller function
+
+- # 17 Aug
+- # 18 Aug Health detorations
+- 
